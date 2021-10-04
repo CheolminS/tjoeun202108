@@ -4,4 +4,5 @@ public class QuizTest {
 	int number;
 	String problem;
 	String answer;
+	int score;
 }
