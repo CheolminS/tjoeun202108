@@ -5,4 +5,5 @@ public class QuizTest {
 	String problem;
 	String answer;
 	int score;
+	String winner;
 }
